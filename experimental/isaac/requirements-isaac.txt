@@ -1,0 +1,5 @@
+--extra-index-url https://pypi.nvidia.com
+isaacsim[all,extscache]==6.1.0.0
+Pillow==12.3.0
+# Install torch==2.11.0 from the cu128 index FIRST, as README.md explains.
+# NumPy/Replicator/USD/PhysX are supplied by Isaac; do not pip-install pxr.

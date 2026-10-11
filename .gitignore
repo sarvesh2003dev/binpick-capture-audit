@@ -1,0 +1,32 @@
+# Raw customer captures, local datasets, caches, and reports
+outreach/
+prospects/
+lead_status.json
+data/
+customer_data/
+customer_reports/
+reports/
+rerun_results/
+rerun_diagnosis/
+downloaded_data/
+downloaded_results/
+work/
+*.partial
+*.tmp
+*.npz
+*.npy
+*.png.user
+
+# Python tooling
+__pycache__/
+*.py[cod]
+.venv/
+.venv-*/
+.pytest_cache/
+
+# Isaac generated datasets/logs and local configs
+runs/
+logs/
+kit/
+*.kit
+installed-environment.txt

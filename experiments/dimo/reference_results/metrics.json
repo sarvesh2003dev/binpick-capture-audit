@@ -1,0 +1,717 @@
+{
+  "dataset": "DIMO",
+  "camera": "RealSense L515",
+  "scene": "000042",
+  "frames": [
+    {
+      "frame": 0,
+      "object_interior_pixels": 106407,
+      "missing_depth_pixels": 106395,
+      "missing_fraction": 0.9998872254644902,
+      "whole_image_missing_fraction": 0.9111501736111111,
+      "whole_image_pixels": 2073600,
+      "whole_image_missing_pixels": 1889361,
+      "outside_cad_pixels": 1955870,
+      "outside_cad_missing_pixels": 1771695
+    },
+    {
+      "frame": 1,
+      "object_interior_pixels": 114182,
+      "missing_depth_pixels": 114091,
+      "missing_fraction": 0.9992030267467727,
+      "whole_image_missing_fraction": 0.9607137345679012,
+      "whole_image_pixels": 2073600,
+      "whole_image_missing_pixels": 1992136,
+      "outside_cad_pixels": 1948000,
+      "outside_cad_missing_pixels": 1866719
+    },
+    {
+      "frame": 2,
+      "object_interior_pixels": 131206,
+      "missing_depth_pixels": 131188,
+      "missing_fraction": 0.999862811151929,
+      "whole_image_missing_fraction": 0.9850713734567901,
+      "whole_image_pixels": 2073600,
+      "whole_image_missing_pixels": 2042644,
+      "outside_cad_pixels": 1930355,
+      "outside_cad_missing_pixels": 1899417
+    },
+    {
+      "frame": 3,
+      "object_interior_pixels": 116475,
+      "missing_depth_pixels": 116468,
+      "missing_fraction": 0.9999399012663662,
+      "whole_image_missing_fraction": 0.9727555941358025,
+      "whole_image_pixels": 2073600,
+      "whole_image_missing_pixels": 2017106,
+      "outside_cad_pixels": 1945109,
+      "outside_cad_missing_pixels": 1888652
+    },
+    {
+      "frame": 4,
+      "object_interior_pixels": 94037,
+      "missing_depth_pixels": 93535,
+      "missing_fraction": 0.9946616757233855,
+      "whole_image_missing_fraction": 0.9711111111111111,
+      "whole_image_pixels": 2073600,
+      "whole_image_missing_pixels": 2013696,
+      "outside_cad_pixels": 1968988,
+      "outside_cad_missing_pixels": 1909903
+    },
+    {
+      "frame": 5,
+      "object_interior_pixels": 95613,
+      "missing_depth_pixels": 94097,
+      "missing_fraction": 0.9841444155083514,
+      "whole_image_missing_fraction": 0.9502256944444445,
+      "whole_image_pixels": 2073600,
+      "whole_image_missing_pixels": 1970388,
+      "outside_cad_pixels": 1966102,
+      "outside_cad_missing_pixels": 1865289
+    },
+    {
+      "frame": 6,
+      "object_interior_pixels": 119177,
+      "missing_depth_pixels": 117935,
+      "missing_fraction": 0.9895785260578803,
+      "whole_image_missing_fraction": 0.9330497685185185,
+      "whole_image_pixels": 2073600,
+      "whole_image_missing_pixels": 1934772,
+      "outside_cad_pixels": 1943178,
+      "outside_cad_missing_pixels": 1806094
+    },
+    {
+      "frame": 7,
+      "object_interior_pixels": 119010,
+      "missing_depth_pixels": 118223,
+      "missing_fraction": 0.9933871103268633,
+      "whole_image_missing_fraction": 0.9354282407407407,
+      "whole_image_pixels": 2073600,
+      "whole_image_missing_pixels": 1939704,
+      "outside_cad_pixels": 1942313,
+      "outside_cad_missing_pixels": 1809472
+    },
+    {
+      "frame": 8,
+      "object_interior_pixels": 106277,
+      "missing_depth_pixels": 106262,
+      "missing_fraction": 0.99985885939573,
+      "whole_image_missing_fraction": 0.9634727044753086,
+      "whole_image_pixels": 2073600,
+      "whole_image_missing_pixels": 1997857,
+      "outside_cad_pixels": 1956378,
+      "outside_cad_missing_pixels": 1880653
+    },
+    {
+      "frame": 9,
+      "object_interior_pixels": 118826,
+      "missing_depth_pixels": 118787,
+      "missing_fraction": 0.9996717890024068,
+      "whole_image_missing_fraction": 0.9970597029320988,
+      "whole_image_pixels": 2073600,
+      "whole_image_missing_pixels": 2067503,
+      "outside_cad_pixels": 1943755,
+      "outside_cad_missing_pixels": 1937697
+    },
+    {
+      "frame": 10,
+      "object_interior_pixels": 94857,
+      "missing_depth_pixels": 94848,
+      "missing_fraction": 0.9999051203390367,
+      "whole_image_missing_fraction": 0.9674561149691357,
+      "whole_image_pixels": 2073600,
+      "whole_image_missing_pixels": 2006117,
+      "outside_cad_pixels": 1967644,
+      "outside_cad_missing_pixels": 1900170
+    },
+    {
+      "frame": 11,
+      "object_interior_pixels": 103107,
+      "missing_depth_pixels": 103089,
+      "missing_fraction": 0.9998254240740202,
+      "whole_image_missing_fraction": 0.9855198688271605,
+      "whole_image_pixels": 2073600,
+      "whole_image_missing_pixels": 2043574,
+      "outside_cad_pixels": 1959292,
+      "outside_cad_missing_pixels": 1929284
+    },
+    {
+      "frame": 12,
+      "object_interior_pixels": 93756,
+      "missing_depth_pixels": 93756,
+      "missing_fraction": 1.0,
+      "whole_image_missing_fraction": 0.9999720293209876,
+      "whole_image_pixels": 2073600,
+      "whole_image_missing_pixels": 2073542,
+      "outside_cad_pixels": 1969426,
+      "outside_cad_missing_pixels": 1969368
+    }
+  ],
+  "instances": [
+    {
+      "frame": 0,
+      "instance": 1,
+      "object_id": 1,
+      "interior_pixels": 20366,
+      "missing_pixels": 20366,
+      "missing_fraction": 1.0
+    },
+    {
+      "frame": 0,
+      "instance": 2,
+      "object_id": 1,
+      "interior_pixels": 31267,
+      "missing_pixels": 31267,
+      "missing_fraction": 1.0
+    },
+    {
+      "frame": 0,
+      "instance": 3,
+      "object_id": 1,
+      "interior_pixels": 22751,
+      "missing_pixels": 22739,
+      "missing_fraction": 0.9994725506571139
+    },
+    {
+      "frame": 0,
+      "instance": 4,
+      "object_id": 1,
+      "interior_pixels": 6815,
+      "missing_pixels": 6815,
+      "missing_fraction": 1.0
+    },
+    {
+      "frame": 0,
+      "instance": 5,
+      "object_id": 1,
+      "interior_pixels": 25208,
+      "missing_pixels": 25208,
+      "missing_fraction": 1.0
+    },
+    {
+      "frame": 1,
+      "instance": 1,
+      "object_id": 1,
+      "interior_pixels": 34411,
+      "missing_pixels": 34349,
+      "missing_fraction": 0.9981982505594141
+    },
+    {
+      "frame": 1,
+      "instance": 2,
+      "object_id": 1,
+      "interior_pixels": 42217,
+      "missing_pixels": 42217,
+      "missing_fraction": 1.0
+    },
+    {
+      "frame": 1,
+      "instance": 3,
+      "object_id": 1,
+      "interior_pixels": 4243,
+      "missing_pixels": 4223,
+      "missing_fraction": 0.995286353994815
+    },
+    {
+      "frame": 1,
+      "instance": 4,
+      "object_id": 1,
+      "interior_pixels": 289,
+      "missing_pixels": 289,
+      "missing_fraction": 1.0
+    },
+    {
+      "frame": 1,
+      "instance": 5,
+      "object_id": 1,
+      "interior_pixels": 33022,
+      "missing_pixels": 33013,
+      "missing_fraction": 0.9997274544243232
+    },
+    {
+      "frame": 2,
+      "instance": 1,
+      "object_id": 1,
+      "interior_pixels": 38828,
+      "missing_pixels": 38819,
+      "missing_fraction": 0.9997682085093231
+    },
+    {
+      "frame": 2,
+      "instance": 2,
+      "object_id": 1,
+      "interior_pixels": 39501,
+      "missing_pixels": 39501,
+      "missing_fraction": 1.0
+    },
+    {
+      "frame": 2,
+      "instance": 3,
+      "object_id": 1,
+      "interior_pixels": 20994,
+      "missing_pixels": 20985,
+      "missing_fraction": 0.9995713060874536
+    },
+    {
+      "frame": 2,
+      "instance": 4,
+      "object_id": 1,
+      "interior_pixels": 8878,
+      "missing_pixels": 8878,
+      "missing_fraction": 1.0
+    },
+    {
+      "frame": 2,
+      "instance": 5,
+      "object_id": 1,
+      "interior_pixels": 23005,
+      "missing_pixels": 23005,
+      "missing_fraction": 1.0
+    },
+    {
+      "frame": 3,
+      "instance": 1,
+      "object_id": 1,
+      "interior_pixels": 29139,
+      "missing_pixels": 29139,
+      "missing_fraction": 1.0
+    },
+    {
+      "frame": 3,
+      "instance": 2,
+      "object_id": 1,
+      "interior_pixels": 35880,
+      "missing_pixels": 35880,
+      "missing_fraction": 1.0
+    },
+    {
+      "frame": 3,
+      "instance": 3,
+      "object_id": 1,
+      "interior_pixels": 22744,
+      "missing_pixels": 22744,
+      "missing_fraction": 1.0
+    },
+    {
+      "frame": 3,
+      "instance": 4,
+      "object_id": 1,
+      "interior_pixels": 19377,
+      "missing_pixels": 19377,
+      "missing_fraction": 1.0
+    },
+    {
+      "frame": 3,
+      "instance": 5,
+      "object_id": 1,
+      "interior_pixels": 9335,
+      "missing_pixels": 9328,
+      "missing_fraction": 0.9992501339046599
+    },
+    {
+      "frame": 4,
+      "instance": 1,
+      "object_id": 1,
+      "interior_pixels": 20317,
+      "missing_pixels": 20217,
+      "missing_fraction": 0.995078013486243
+    },
+    {
+      "frame": 4,
+      "instance": 2,
+      "object_id": 1,
+      "interior_pixels": 22903,
+      "missing_pixels": 22860,
+      "missing_fraction": 0.9981225167008689
+    },
+    {
+      "frame": 4,
+      "instance": 3,
+      "object_id": 1,
+      "interior_pixels": 32211,
+      "missing_pixels": 32211,
+      "missing_fraction": 1.0
+    },
+    {
+      "frame": 4,
+      "instance": 4,
+      "object_id": 1,
+      "interior_pixels": 16439,
+      "missing_pixels": 16439,
+      "missing_fraction": 1.0
+    },
+    {
+      "frame": 4,
+      "instance": 5,
+      "object_id": 1,
+      "interior_pixels": 2167,
+      "missing_pixels": 1808,
+      "missing_fraction": 0.8343331795108445
+    },
+    {
+      "frame": 5,
+      "instance": 1,
+      "object_id": 1,
+      "interior_pixels": 31322,
+      "missing_pixels": 30396,
+      "missing_fraction": 0.9704361151906008
+    },
+    {
+      "frame": 5,
+      "instance": 2,
+      "object_id": 1,
+      "interior_pixels": 2340,
+      "missing_pixels": 2337,
+      "missing_fraction": 0.9987179487179487
+    },
+    {
+      "frame": 5,
+      "instance": 3,
+      "object_id": 1,
+      "interior_pixels": 33498,
+      "missing_pixels": 33489,
+      "missing_fraction": 0.9997313272434175
+    },
+    {
+      "frame": 5,
+      "instance": 4,
+      "object_id": 1,
+      "interior_pixels": 10681,
+      "missing_pixels": 10681,
+      "missing_fraction": 1.0
+    },
+    {
+      "frame": 5,
+      "instance": 5,
+      "object_id": 1,
+      "interior_pixels": 17772,
+      "missing_pixels": 17194,
+      "missing_fraction": 0.9674769300022508
+    },
+    {
+      "frame": 6,
+      "instance": 1,
+      "object_id": 1,
+      "interior_pixels": 39483,
+      "missing_pixels": 38282,
+      "missing_fraction": 0.9695818453511638
+    },
+    {
+      "frame": 6,
+      "instance": 2,
+      "object_id": 1,
+      "interior_pixels": 1924,
+      "missing_pixels": 1883,
+      "missing_fraction": 0.9786902286902287
+    },
+    {
+      "frame": 6,
+      "instance": 3,
+      "object_id": 1,
+      "interior_pixels": 32010,
+      "missing_pixels": 32010,
+      "missing_fraction": 1.0
+    },
+    {
+      "frame": 6,
+      "instance": 4,
+      "object_id": 1,
+      "interior_pixels": 15322,
+      "missing_pixels": 15322,
+      "missing_fraction": 1.0
+    },
+    {
+      "frame": 6,
+      "instance": 5,
+      "object_id": 1,
+      "interior_pixels": 30438,
+      "missing_pixels": 30438,
+      "missing_fraction": 1.0
+    },
+    {
+      "frame": 7,
+      "instance": 1,
+      "object_id": 1,
+      "interior_pixels": 34191,
+      "missing_pixels": 33410,
+      "missing_fraction": 0.9771577315667865
+    },
+    {
+      "frame": 7,
+      "instance": 2,
+      "object_id": 1,
+      "interior_pixels": 10723,
+      "missing_pixels": 10723,
+      "missing_fraction": 1.0
+    },
+    {
+      "frame": 7,
+      "instance": 3,
+      "object_id": 1,
+      "interior_pixels": 22039,
+      "missing_pixels": 22033,
+      "missing_fraction": 0.9997277553428014
+    },
+    {
+      "frame": 7,
+      "instance": 4,
+      "object_id": 1,
+      "interior_pixels": 16971,
+      "missing_pixels": 16971,
+      "missing_fraction": 1.0
+    },
+    {
+      "frame": 7,
+      "instance": 5,
+      "object_id": 1,
+      "interior_pixels": 35086,
+      "missing_pixels": 35086,
+      "missing_fraction": 1.0
+    },
+    {
+      "frame": 8,
+      "instance": 1,
+      "object_id": 1,
+      "interior_pixels": 25673,
+      "missing_pixels": 25673,
+      "missing_fraction": 1.0
+    },
+    {
+      "frame": 8,
+      "instance": 2,
+      "object_id": 1,
+      "interior_pixels": 30572,
+      "missing_pixels": 30572,
+      "missing_fraction": 1.0
+    },
+    {
+      "frame": 8,
+      "instance": 3,
+      "object_id": 1,
+      "interior_pixels": 23268,
+      "missing_pixels": 23253,
+      "missing_fraction": 0.9993553378029912
+    },
+    {
+      "frame": 8,
+      "instance": 4,
+      "object_id": 1,
+      "interior_pixels": 8034,
+      "missing_pixels": 8034,
+      "missing_fraction": 1.0
+    },
+    {
+      "frame": 8,
+      "instance": 5,
+      "object_id": 1,
+      "interior_pixels": 18730,
+      "missing_pixels": 18730,
+      "missing_fraction": 1.0
+    },
+    {
+      "frame": 9,
+      "instance": 1,
+      "object_id": 1,
+      "interior_pixels": 35491,
+      "missing_pixels": 35452,
+      "missing_fraction": 0.9989011298639091
+    },
+    {
+      "frame": 9,
+      "instance": 2,
+      "object_id": 1,
+      "interior_pixels": 36310,
+      "missing_pixels": 36310,
+      "missing_fraction": 1.0
+    },
+    {
+      "frame": 9,
+      "instance": 3,
+      "object_id": 1,
+      "interior_pixels": 21633,
+      "missing_pixels": 21633,
+      "missing_fraction": 1.0
+    },
+    {
+      "frame": 9,
+      "instance": 4,
+      "object_id": 1,
+      "interior_pixels": 5521,
+      "missing_pixels": 5521,
+      "missing_fraction": 1.0
+    },
+    {
+      "frame": 9,
+      "instance": 5,
+      "object_id": 1,
+      "interior_pixels": 19871,
+      "missing_pixels": 19871,
+      "missing_fraction": 1.0
+    },
+    {
+      "frame": 10,
+      "instance": 1,
+      "object_id": 1,
+      "interior_pixels": 22178,
+      "missing_pixels": 22178,
+      "missing_fraction": 1.0
+    },
+    {
+      "frame": 10,
+      "instance": 2,
+      "object_id": 1,
+      "interior_pixels": 26216,
+      "missing_pixels": 26207,
+      "missing_fraction": 0.9996566981995728
+    },
+    {
+      "frame": 10,
+      "instance": 3,
+      "object_id": 1,
+      "interior_pixels": 22352,
+      "missing_pixels": 22352,
+      "missing_fraction": 1.0
+    },
+    {
+      "frame": 10,
+      "instance": 4,
+      "object_id": 1,
+      "interior_pixels": 14164,
+      "missing_pixels": 14164,
+      "missing_fraction": 1.0
+    },
+    {
+      "frame": 10,
+      "instance": 5,
+      "object_id": 1,
+      "interior_pixels": 9947,
+      "missing_pixels": 9947,
+      "missing_fraction": 1.0
+    },
+    {
+      "frame": 11,
+      "instance": 1,
+      "object_id": 1,
+      "interior_pixels": 36969,
+      "missing_pixels": 36951,
+      "missing_fraction": 0.9995131055749412
+    },
+    {
+      "frame": 11,
+      "instance": 2,
+      "object_id": 1,
+      "interior_pixels": 5695,
+      "missing_pixels": 5695,
+      "missing_fraction": 1.0
+    },
+    {
+      "frame": 11,
+      "instance": 3,
+      "object_id": 1,
+      "interior_pixels": 23011,
+      "missing_pixels": 23011,
+      "missing_fraction": 1.0
+    },
+    {
+      "frame": 11,
+      "instance": 4,
+      "object_id": 1,
+      "interior_pixels": 13198,
+      "missing_pixels": 13198,
+      "missing_fraction": 1.0
+    },
+    {
+      "frame": 11,
+      "instance": 5,
+      "object_id": 1,
+      "interior_pixels": 24234,
+      "missing_pixels": 24234,
+      "missing_fraction": 1.0
+    },
+    {
+      "frame": 12,
+      "instance": 1,
+      "object_id": 1,
+      "interior_pixels": 26192,
+      "missing_pixels": 26192,
+      "missing_fraction": 1.0
+    },
+    {
+      "frame": 12,
+      "instance": 2,
+      "object_id": 1,
+      "interior_pixels": 26130,
+      "missing_pixels": 26130,
+      "missing_fraction": 1.0
+    },
+    {
+      "frame": 12,
+      "instance": 3,
+      "object_id": 1,
+      "interior_pixels": 18415,
+      "missing_pixels": 18415,
+      "missing_fraction": 1.0
+    },
+    {
+      "frame": 12,
+      "instance": 4,
+      "object_id": 1,
+      "interior_pixels": 8960,
+      "missing_pixels": 8960,
+      "missing_fraction": 1.0
+    },
+    {
+      "frame": 12,
+      "instance": 5,
+      "object_id": 1,
+      "interior_pixels": 14059,
+      "missing_pixels": 14059,
+      "missing_fraction": 1.0
+    }
+  ],
+  "physical_arrangements": 1,
+  "object_instances_per_view": 5,
+  "mask_source": "CAD rasterization at published object poses; 3 px erosion per instance",
+  "mask_alignment_status": "RGB/CAD overlay manually inspected, not independently relabeled",
+  "depth_rgb_registration_status": "Stored arrays have matching dimensions; registration not independently calibrated here",
+  "invalid_depth_definition": "stored uint16 value equals zero",
+  "depth_scale": "not provided in selected metadata; no metric sensor-depth error claimed",
+  "fit_views": [
+    0,
+    2,
+    4,
+    6,
+    8,
+    10
+  ],
+  "held_views": [
+    1,
+    3,
+    5,
+    7,
+    9,
+    11,
+    12
+  ],
+  "naive_2pct_dropout": {
+    "predicted_missing_fraction": 0.02,
+    "held_view_fraction_mae": 0.9765959524178258,
+    "held_pixel_brier": 0.9572991115275392
+  },
+  "fitted_constant_dropout": {
+    "predicted_missing_fraction": 0.9972421663258999,
+    "held_view_fraction_mae": 0.004197445182378793,
+    "held_pixel_brier": 0.003219881691535259
+  },
+  "overall_missing_fraction": 0.9969878196372078,
+  "overall_whole_image_missing_fraction": 0.9640758547008547,
+  "overall_outside_cad_missing_fraction": 0.9621207485624936,
+  "limits": [
+    "One physical arrangement: view holdout, not scene-level generalization.",
+    "Most pixels outside the CAD objects also have zero depth; missingness is not confined to the metal objects.",
+    "Missing returns do not isolate reflectivity from range, exposure, camera settings or alignment.",
+    "Constant dropout matches aggregate missingness only; it does not recreate spatial sensor failures.",
+    "No neural model trained and no pick-success improvement measured.",
+    "CAD depth is generated by CPU rasterization, not by Isaac Sim or the real depth sensor."
+  ]
+}
